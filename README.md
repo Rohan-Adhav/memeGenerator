@@ -26,7 +26,7 @@ A simple and interactive web app that lets users **create custom memes** by uplo
 ## 📸 Preview
 
 <p align="center">
-  <img src="./meme-generator-ui.png" alt="Meme Generator UI" width="700"/>
+  <img src="./Screenshot 2025-08-13 165252.png" alt="Meme Generator UI" width="700"/>
 </p>
 
 
