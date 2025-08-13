@@ -9,7 +9,7 @@
 A simple and interactive web app that lets users **create custom memes** by uploading images and adding top/bottom text. Built with vanilla HTML, CSS, and JavaScript — no frameworks, just fun!
 
 📁 **Repo:** [memeGenerator](https://github.com/Rohan-Adhav/memeGenerator.git)  
-🎶**Live Demo**[memeGenerator](https://meme-generator-rohan.vercel.app/)
+🎶**Live Demo:**[memeGenerator](https://meme-generator-rohan.vercel.app/).
 🛠️ **Tech Stack:** HTML, CSS, JavaScript
 
 ---
